@@ -1,28 +1,28 @@
 [
-  //{
-  //  "locale": "tr",
-  //  "description": "TEŞEKKÜRLER\nGUNEYDOĞU TEKS. GIDA INS SAN. LTD.STI.\nORNEKTEPE MAH.ETIBANK CAD.SARAY APT.\nN:43-1 BEYOĞLU/ISTANBUL\nGÜNEŞLİ V.D.\n4350078928 V. NO.\nTARIH : 26.08.2020\nSAAT : 15:27\nFİŞ NO : 0082\n54491250\n2 ADx 2,75\nCC.COCA COLA CAM 200\n2701084\n1,566 KGx 1,99\nMANAV DOMATES PETEME\n08\n*5,50\n*3,32\n2701076\n0,358 KGx 4,99\nMANAV BIBER CARLISTO\n08\n*1,79\n4\nEKMEK CIFTLI\n01\n*1,25\nTOPKDV\nTOPLAM\n*0,80\n*11,86\nNAKİT\n*20,00\nKDV\n01\n08\nKDV TUTARI\n*0,01\n*0,79\nKDV'LI TOPLAM\n*1,25\n*10,61\nKASİYER : SUPERVISOR\n00 0001/020/000084/1//82/\nPARA USTÜ\n*8,14\nKASİYER: 1\n2 NO:1330\nEKÜ NO:0001\nMF YAB 15017876\n",
-  //  "boundingPoly": {
-  //    "vertices": [
-  //      {
-  //        "x": 35,
-  //        "y": 88
-  //      },
-  //      {
-  //        "x": 576,
-  //        "y": 88
-  //      },
-  //      {
-  //        "x": 576,
-  //        "y": 1077
-  //      },
-  //      {
-  //        "x": 35,
-  //        "y": 1077
-  //      }
-  //    ]
-  //  }
-  //},
+  {
+    "locale": "tr",
+    "description": "TEŞEKKÜRLER\nGUNEYDOĞU TEKS. GIDA INS SAN. LTD.STI.\nORNEKTEPE MAH.ETIBANK CAD.SARAY APT.\nN:43-1 BEYOĞLU/ISTANBUL\nGÜNEŞLİ V.D.\n4350078928 V. NO.\nTARIH : 26.08.2020\nSAAT : 15:27\nFİŞ NO : 0082\n54491250\n2 ADx 2,75\nCC.COCA COLA CAM 200\n2701084\n1,566 KGx 1,99\nMANAV DOMATES PETEME\n08\n*5,50\n*3,32\n2701076\n0,358 KGx 4,99\nMANAV BIBER CARLISTO\n08\n*1,79\n4\nEKMEK CIFTLI\n01\n*1,25\nTOPKDV\nTOPLAM\n*0,80\n*11,86\nNAKİT\n*20,00\nKDV\n01\n08\nKDV TUTARI\n*0,01\n*0,79\nKDV'LI TOPLAM\n*1,25\n*10,61\nKASİYER : SUPERVISOR\n00 0001/020/000084/1//82/\nPARA USTÜ\n*8,14\nKASİYER: 1\n2 NO:1330\nEKÜ NO:0001\nMF YAB 15017876\n",
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 35,
+          "y": 88
+        },
+        {
+          "x": 576,
+          "y": 88
+        },
+        {
+          "x": 576,
+          "y": 1077
+        },
+        {
+          "x": 35,
+          "y": 1077
+        }
+      ]
+    }
+  },
   {
     "description": "TEŞEKKÜRLER",
     "boundingPoly": {
@@ -1084,7 +1084,7 @@
   {
     "description": "2701076",
     "boundingPoly": {
-      " ": [
+      "vertices": [
         {
           "x": 53,
           "y": 501
