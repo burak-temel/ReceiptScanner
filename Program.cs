@@ -95,7 +95,7 @@ namespace ReceiptScanner
 
                 foreach (var item in items)
                 {
-                    if (lastY < 0 || Math.Abs(item.Y - lastY) <= yTolerance)
+                    if (lastY == 0 || Math.Abs(item.Y - lastY) <= yTolerance)
                     {
                         currentLineItems.Add(item);
                     }
