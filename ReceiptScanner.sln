@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptScanner", "ReceiptScanner.csproj", "{E69B9920-1F67-4FC5-9BEF-3EF69EC98CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{70D0C4B8-8223-4B59-956A-52C225DA508A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E69B9920-1F67-4FC5-9BEF-3EF69EC98CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69B9920-1F67-4FC5-9BEF-3EF69EC98CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69B9920-1F67-4FC5-9BEF-3EF69EC98CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69B9920-1F67-4FC5-9BEF-3EF69EC98CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D0C4B8-8223-4B59-956A-52C225DA508A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D0C4B8-8223-4B59-956A-52C225DA508A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D0C4B8-8223-4B59-956A-52C225DA508A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D0C4B8-8223-4B59-956A-52C225DA508A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DDD1FE2-6A6C-47C2-BBE1-46D894FE4F68}
+	EndGlobalSection
+EndGlobal
